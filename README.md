@@ -1,70 +1,61 @@
-```markdown
 <div align="center">
 
 # Sarah Ishimwe
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Software+Developer;Full-Stack+Developer;Java+%7C+Quality+Assurance;Always+Learning+Something+New" />
+### Full-Stack Software Developer
 
-Building reliable software through clean code, continuous learning, and quality engineering.
+*Building simple, scalable, and user-focused applications.*
 
-<br>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ishimwesarah">
-    <img src="https://komarev.com/ghpvc/?username=ishimwesarah&style=flat-square&color=3B82F6"/>
-</a>
+Java • React • Node.js • Spring Boot
 
 </div>
+
+---
+
+## About
+
+I'm a software developer passionate about building clean, reliable applications and continuously expanding my skills. I enjoy working across the full stack, solving real-world problems, and learning new technologies.
 
 ---
 
 ## Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,docker,postman,idea,vscode&perline=8"/>
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,docker,postman,vscode,idea&theme=dark&perline=8"/>
+</p>
 
 ---
 
 ## Currently Learning
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,maven,junit"/>
-
-</div>
-
-- Java & Spring Boot
-- Software Quality Assurance
-- Test Automation
-- Clean Architecture
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=junit,maven&theme=dark"/>
+</p>
 
 ---
-
-
 
 ## Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| **QuizBattle** | Real-time multiplayer quiz application built with React Native, Node.js and Socket.IO. |
-| **Recipe Book** | Mobile application with API integration and cloud image management. |
-| **Budget Tracker** | Budget management application for small businesses. |
+### Recipe Book
+A mobile application for discovering and managing recipes.
+
+### Budget Tracker
+A budgeting application designed to help small entrepreneurs manage their finances.
+
 
 ---
 
-<div align="center">
+## Connect
 
-> *"Great software isn't just built—it is engineered."*
+<p align="center">
+  <a href="https://linkedin.com/in/sarah-ishimwe">
+    LinkedIn
+  </a>
+  •
+  <a href="mailto:ishimwesarah@gmail.com">
+    Email
+  </a>
+</p>
 
-</div>
-```
+---
+
