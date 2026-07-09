@@ -1,89 +1,120 @@
-# Hi there 👋, I'm Sarah Ishimwe
+# Sarah Ishimwe
 
-## Software Developer | Full-Stack & Mobile Development | UX Enthusiast
+## Software Developer | Full-Stack Development | Java & Quality Assurance
 
-I am a passionate Software Developer based in Kigali, Rwanda, with experience building web and mobile applications using modern technologies. I enjoy creating solutions that combine clean code, intuitive user experiences, and practical impact.
-
-I have experience working across the full development lifecycle — from designing user interfaces and developing APIs to integrating databases, authentication systems, and deploying applications. I enjoy collaborating in Agile environments, continuously learning, and improving software development practices.
-
-Currently, I am expanding my knowledge in **software engineering best practices, cybersecurity, and user-centered design** while building projects that solve real-world problems.
+Passionate about building reliable software solutions, improving code quality, and developing scalable applications through clean architecture, testing, and continuous learning.
 
 ---
 
-## 🚀 What I Do
+## About Me
 
-- 💻 Build responsive web applications using **React, Next.js, and Node.js**
-- 📱 Develop cross-platform mobile applications using **React Native**
-- 🔗 Design and integrate **RESTful APIs**
-- 🗄️ Work with databases such as **MongoDB and SQL-based databases**
-- 🔐 Implement authentication and secure application practices using technologies like **JWT**
-- 🎨 Explore **UX/UI design principles** to create better user experiences
-- ⚙️ Apply Agile and DevOps practices through version control, testing, and continuous improvement
+I am a Software Developer with experience building web and mobile applications, backend services, and API-driven solutions.
+
+I enjoy working across the software development lifecycle — from designing and implementing features to testing, debugging, and improving software reliability.
+
+Currently, I am expanding my expertise in Java development and Quality Assurance, focusing on writing maintainable code, applying software engineering principles, and building confidence in automated testing practices.
+
+Areas of interest:
+
+- Software Development
+- Java Backend Development
+- Quality Assurance and Test Automation
+- Agile Software Development
+- DevOps Practices
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technical Skills
 
-### Frontend
+### Programming Languages
+
+- Java
+- JavaScript
+- TypeScript
+
+### Frontend Development
+
 - React.js
 - Next.js
 - React Native
-- JavaScript (ES6+)
-- TypeScript
 - HTML5
 - CSS3
 
-### Backend
+### Backend Development
+
 - Node.js
 - Express.js
 - REST APIs
 - Sequelize ORM
 
 ### Databases
+
 - MongoDB
-- MySQL / SQL
+- MySQL
 
-### Development Tools
+### Testing & Quality Assurance
+
+- Software Testing Fundamentals
+- Unit Testing
+- API Testing
+- Test Automation Concepts
+- JUnit (Learning)
+
+### Tools & Practices
+
 - Git & GitHub
-- Docker (learning)
-- CI/CD concepts
-- Agile & Scrum methodologies
-- Figma
+- Postman
+- Agile / Scrum
+- CI/CD Concepts
+- Version Control
 
 ---
 
-## 🌱 Currently Learning
+## Featured Projects
 
-- 🔐 Cybersecurity fundamentals and secure software development
-- 🏗️ Advanced software architecture and backend development
-- 🎨 UX research and user-centered design
-- ☁️ Cloud technologies and DevOps practices
+### QuizBattle — Real-Time Multiplayer Quiz Application
 
----
+A multiplayer quiz platform built with React Native, Node.js, Socket.IO, and Sequelize.
 
-## 💡 Featured Projects
+Key features:
+- Real-time communication between players
+- Game session management
+- Backend API integration
+- Database-driven application logic
 
-### 🎮 QuizBattle — Real-Time Multiplayer Quiz Application
-A multiplayer quiz platform built with React Native, Node.js, Socket.IO, and Sequelize that enables real-time gameplay, matchmaking, and live leaderboards.
 
-### 📱 Recipe Book Mobile Application
-A mobile application built with React Native and Expo, focusing on smooth user experience, API integration, and cloud-based image management.
+### Recipe Book Mobile Application
 
-### 💰 Budget Tracking Application
-A solution designed to help small entrepreneurs manage and track their finances effectively.
+A React Native application focused on mobile development practices, API integration, and application architecture.
 
----
 
-## 🤝 Let's Connect
+### Budget Tracking Application
 
-I am interested in collaborating on projects related to:
-- Full-stack development
-- Mobile applications
-- UX-focused products
-- Cybersecurity and secure software development
-
-📫 Feel free to connect with me on LinkedIn or explore my projects here on GitHub.
+A financial management application designed to help small entrepreneurs track and manage their budgets.
 
 ---
 
-⭐ Always learning. Always building. Always improving.
+## Currently Learning
+
+- Advanced Java Development
+- Object-Oriented Design Principles
+- Software Quality Assurance
+- Test Automation
+- Spring Boot
+- DevOps Practices
+
+---
+
+
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/sarah-ishimwe/
+
+Email: ishimwesarah09@gmail.com
+
+Location: Kigali, Rwanda
+
+---
+
+> Building software with quality, reliability, and continuous improvement in mind.
