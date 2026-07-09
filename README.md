@@ -21,7 +21,7 @@ I'm a software developer passionate about building clean, reliable applications 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,docker,postman,vscode,idea&theme=dark&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,postman,vscode,idea&theme=dark&perline=8"/>
 </p>
 
 ---
@@ -29,7 +29,7 @@ I'm a software developer passionate about building clean, reliable applications 
 ## Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=junit,maven&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=junit,docker,maven&theme=dark"/>
 </p>
 
 ---
